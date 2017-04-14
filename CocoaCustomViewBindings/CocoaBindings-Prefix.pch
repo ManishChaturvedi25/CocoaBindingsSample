@@ -1,0 +1,20 @@
+//
+//  CocoaBindings-Prefix.pch
+//  CocoaBindings
+//
+//  Created by ctsuser1 on 4/9/17.
+//  Copyright © 2017 Apple. All rights reserved.
+//
+
+#ifndef CocoaBindings_Prefix_pch
+#define CocoaBindings_Prefix_pch
+
+#import <Cocoa/Cocoa.h>
+#import <Foundation/Foundation.h>
+#import <AppKit/AppKit.h>
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* CocoaBindings_Prefix_pch */
